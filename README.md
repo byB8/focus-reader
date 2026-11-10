@@ -6,8 +6,8 @@ A Chrome extension in plain JavaScript. No build step, no framework, no bundler,
 
 Built byB8 · [by.b8hnam.com](https://by.b8hnam.com/) · [فارسی](README.fa.md)
 
-[![Stars](https://img.shields.io/github/stars/b8hnam/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/b8hnam/focus-reader/stargazers)
-[![Latest release](https://img.shields.io/github/v/release/b8hnam/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/b8hnam/focus-reader/releases/latest)
+[![Stars](https://img.shields.io/github/stars/byB8/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/byB8/focus-reader/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/byB8/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/byB8/focus-reader/releases/latest)
 [![Licence](https://img.shields.io/badge/licence-GPL--3.0--or--later-FF3000?style=flat&labelColor=411530)](LICENSE)
 
 ![Focus Reader settings](docs/media/settings.png)
@@ -146,6 +146,6 @@ Vazirmatn by Saber Rastikerdar, SIL Open Font License 1.1 — see `src/fonts/VAZ
 
 ## If it's useful to you
 
-Focus Reader has no server, no analytics, and no accounts — which is the point, but it also means there is no way of knowing whether anyone out there is using it. A [star on GitHub](https://github.com/b8hnam/focus-reader) is the only signal that reaches me, and it costs you one click.
+Focus Reader has no server, no analytics, and no accounts — which is the point, but it also means there is no way of knowing whether anyone out there is using it. A [star on GitHub](https://github.com/byB8/focus-reader) is the only signal that reaches me, and it costs you one click.
 
 Nothing else is asked for. The extension is free, stays free, and will never show you this again.

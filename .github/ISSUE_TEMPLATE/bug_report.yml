@@ -6,9 +6,9 @@ body:
   - type: markdown
     attributes:
       value: |
-        This is a personal project without a support commitment — see the [README](https://github.com/b8hnam/focus-reader#about-this-project) for how it's maintained. Your report will be read, but there's no promised response time or guarantee of a fix. A pull request is the fastest path to getting something fixed.
+        This is a personal project without a support commitment — see the [README](https://github.com/byB8/focus-reader#about-this-project) for how it's maintained. Your report will be read, but there's no promised response time or guarantee of a fix. A pull request is the fastest path to getting something fixed.
 
-        این یک پروژه‌ی شخصی است و تعهد پشتیبانی ندارد — نحوه‌ی نگهداری‌اش را در [README](https://github.com/b8hnam/focus-reader#about-this-project) بخوانید. گزارش شما خوانده می‌شود، اما زمان پاسخ‌گویی یا تضمینی برای رفع آن وجود ندارد. فرستادن درخواست ادغام (Pull Request) سریع‌ترین راه برای رفع مشکل است.
+        این یک پروژه‌ی شخصی است و تعهد پشتیبانی ندارد — نحوه‌ی نگهداری‌اش را در [README](https://github.com/byB8/focus-reader#about-this-project) بخوانید. گزارش شما خوانده می‌شود، اما زمان پاسخ‌گویی یا تضمینی برای رفع آن وجود ندارد. فرستادن درخواست ادغام (Pull Request) سریع‌ترین راه برای رفع مشکل است.
 
         You can write in English or Persian. / می‌توانید انگلیسی یا فارسی بنویسید.
 

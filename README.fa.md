@@ -8,8 +8,8 @@
 
 ساخته‌ی **B8hnam** · [by.b8hnam.com](https://by.b8hnam.com/) · [English](README.md)
 
-[![Stars](https://img.shields.io/github/stars/b8hnam/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/b8hnam/focus-reader/stargazers)
-[![Latest release](https://img.shields.io/github/v/release/b8hnam/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/b8hnam/focus-reader/releases/latest)
+[![Stars](https://img.shields.io/github/stars/byB8/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/byB8/focus-reader/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/byB8/focus-reader?style=flat&color=FF3000&labelColor=411530)](https://github.com/byB8/focus-reader/releases/latest)
 [![Licence](https://img.shields.io/badge/licence-GPL--3.0--or--later-FF3000?style=flat&labelColor=411530)](LICENSE)
 
 ![Focus Reader settings](docs/media/settings.png)
@@ -152,7 +152,7 @@ TRADEMARK.md          چیزهایی که پروانه شاملشان نمی‌�
 
 ## اگر به کارتان آمد
 
-Focus Reader سرور ندارد، تحلیل رفتار ندارد، حساب کاربری ندارد — که خودش هدف است، ولی یعنی هیچ راهی هم نیست بفهمم کسی از آن استفاده می‌کند یا نه. [یک ستاره در گیت‌هاب](https://github.com/b8hnam/focus-reader) تنها نشانه‌ای است که به من می‌رسد، و یک کلیک بیشتر وقت نمی‌گیرد.
+Focus Reader سرور ندارد، تحلیل رفتار ندارد، حساب کاربری ندارد — که خودش هدف است، ولی یعنی هیچ راهی هم نیست بفهمم کسی از آن استفاده می‌کند یا نه. [یک ستاره در گیت‌هاب](https://github.com/byB8/focus-reader) تنها نشانه‌ای است که به من می‌رسد، و یک کلیک بیشتر وقت نمی‌گیرد.
 
 چیز دیگری خواسته نمی‌شود. این افزونه رایگان است، رایگان می‌ماند، و دیگر این را به شما نشان نمی‌دهد.
 

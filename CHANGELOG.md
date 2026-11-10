@@ -84,9 +84,9 @@ First public release. Earlier versions were private builds used by the author an
 - The content script stays inert until first use — four passive listeners on page load and nothing else.
 - No servers, no analytics, no accounts. See `PRIVACY.md`.
 
-[Unreleased]: https://github.com/b8hnam/focus-reader/compare/v1.9.3...HEAD
-[1.9.3]: https://github.com/b8hnam/focus-reader/compare/v1.9.2...v1.9.3
-[1.9.2]: https://github.com/b8hnam/focus-reader/compare/v1.9.1...v1.9.2
-[1.9.1]: https://github.com/b8hnam/focus-reader/compare/v1.9.0...v1.9.1
-[1.9.0]: https://github.com/b8hnam/focus-reader/compare/v1.8.0...v1.9.0
-[1.8.0]: https://github.com/b8hnam/focus-reader/releases/tag/v1.8.0
+[Unreleased]: https://github.com/byB8/focus-reader/compare/v1.9.3...HEAD
+[1.9.3]: https://github.com/byB8/focus-reader/compare/v1.9.2...v1.9.3
+[1.9.2]: https://github.com/byB8/focus-reader/compare/v1.9.1...v1.9.2
+[1.9.1]: https://github.com/byB8/focus-reader/compare/v1.9.0...v1.9.1
+[1.9.0]: https://github.com/byB8/focus-reader/compare/v1.8.0...v1.9.0
+[1.8.0]: https://github.com/byB8/focus-reader/releases/tag/v1.8.0

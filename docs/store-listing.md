@@ -57,7 +57,7 @@ No servers of ours. No analytics. Your text never leaves your browser, and saved
 Interface available in English and Persian.
 
 OPEN SOURCE
-The full source is on GitHub under the GPL, with nothing hidden: github.com/b8hnam/focus-reader
+The full source is on GitHub under the GPL, with nothing hidden: github.com/byB8/focus-reader
 
 byB8 — https://by.b8hnam.com/focus-reader/
 
