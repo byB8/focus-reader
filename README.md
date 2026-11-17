@@ -130,7 +130,7 @@ Pushing a tag such as `v1.9.0` triggers [`.github/workflows/release.yml`](.githu
 
 ## Contributing
 
-Read the project-status warning above first, then [CONTRIBUTING.md](CONTRIBUTING.md).
+Read [About this project](#about-this-project) first, then [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
