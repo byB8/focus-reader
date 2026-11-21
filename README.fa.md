@@ -136,7 +136,7 @@ TRADEMARK.md          چیزهایی که پروانه شاملشان نمی‌�
 
 ## مشارکت
 
-اول هشدار وضعیت پروژه را در بالا بخوانید، بعد [CONTRIBUTING.md](CONTRIBUTING.md).
+اول بخش «درباره‌ی این پروژه» را در بالا بخوانید، بعد [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
